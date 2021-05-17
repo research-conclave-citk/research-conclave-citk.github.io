@@ -20,6 +20,14 @@ It's a Deemed to be University under Minstry of Human Resource and Development (
 
 At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd programmes.
 
+**Patron:** Prof. Debkumar Chakrabarti (Officiating Director, CIT Kokrajhar)
+
+**Coordinator:** Dr. Ranjan Maity (Assistant Professor, CIT Kokrajhar)
+
+```
+In case of any query contact Research Conclave 2021, coordinator Dr. Ranjan Maity at r.maity@cit.ac.in
+```
+
 ### Topics (Tentative):
 
 * Network Security
@@ -45,6 +53,20 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 * Mr. Pranav Kr. Singh, CIT Kokrajhar
 * Dr. Pankaj Pratap Singh, CIT Kokrajhar
 
+### Organizing Committee:
+* Prof. Hemanta Kalita
+* Dr. Amitava Nag
+* Mr. Pranav Kr. Singh
+* Mrs. Tania Sarkar
+* Mr. Bikramjit Choudhary
+* Dr. Anup Kumar Barman
+* Mr. Ranjan Patowary
+* Mr. Mithun Karmakar
+* Mr. Dharani Kanta Roy
+* Mr. Sanjib Narzary
+* Dr. Apurbalal Senapati
+* Dr. Pankaj Pratap Singh
+* Mrs. Puja Sarkar
 
 ### Schedule (Tentative)
 
