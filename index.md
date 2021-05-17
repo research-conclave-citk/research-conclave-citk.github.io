@@ -50,7 +50,7 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 
 | Sl. No       | Time              | Date  | Event | Details |
 |:-------------|:------------------:|:------:|:------:|:--------:|
-| 1            | 9.30 AM - 10.00 AM | 22nd May, 2021  | Inauguration | 1. Welcome address by HoD CSE<br/>2. Speech of Director<br/>3. Speech of Registrar<br/>4. Speech of Dean R\&D
+| 1            | 9.30 AM - 10.00 AM | 22nd May, 2021  | Inauguration | 1. Welcome address by HoD CSE<br/>2. Speech of Director<br/>3. Speech of Registrar<br/>4. Speech of Dean R&D
 | 2            | 10.00 AM - 11.00 AM | 22nd May, 2021 | Invited talk | Prof. Santosh Biswas, IIT Bhilai
 | 3            | 11.00 AM - 12.00 Noon | 22nd May, 2021 | Invited talk | Prof. Debasis Dey, WBUT
 | 4            | 12.00 Noon - 1.00 PM | 22nd May, 2021 | Invited talk | Mr. Nadim Akhtar, Consultant, Microsoft
