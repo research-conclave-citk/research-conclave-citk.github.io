@@ -31,12 +31,12 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 
 ### List of Invited Speakers (Tentative):
 
-* Prof. Sukumar Nandi (IIT Guwahati)[http://www.iitg.ac.in/engfac/sukumar/public_html/]
-* Prof. Santosh Biswas (IIT Bhilai)[https://www.iitbhilai.ac.in/index.php?pid=santosh]
-* Prof. Utpal Garain (ISI Kolkata)[https://www.isical.ac.in/~utpal/]
-* Prof. Debasis De (WBUT)[https://makautwb.ac.in/plug.php?e=WBUTtool&f=faculty_profile&user_id=36]
-* Dr. Somnath Dey (IIT Indore)[https://somnathd.wixsite.com/somnath]
-* Dr. Sayan Sarear (University of Tusukba, Japan)[https://sayansarcar.github.io/]
+* [Prof. Sukumar Nandi (IIT Guwahati)](http://www.iitg.ac.in/engfac/sukumar/public_html/)
+* [Prof. Santosh Biswas (IIT Bhilai)](https://www.iitbhilai.ac.in/index.php?pid=santosh)
+* [Prof. Utpal Garain (ISI Kolkata)](https://www.isical.ac.in/~utpal/)
+* [Prof. Debasis De (WBUT)](https://makautwb.ac.in/plug.php?e=WBUTtool&f=faculty_profile&user_id=36)
+* [Dr. Somnath Dey (IIT Indore)](https://somnathd.wixsite.com/somnath)
+* [Dr. Sayan Sarear (University of Tusukba, Japan)](https://sayansarcar.github.io/)
 * Mr. Nadim Akhtar, Consultant, Microsoft
 
 ### List of Speakers:
