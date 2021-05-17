@@ -16,7 +16,7 @@ $blockquote-text-color: #819198 !default;
 
 .project-tagline {
   margin-bottom: 2rem;
-//   font-weight: normal;
+  font-weight: bold;
   opacity: 0.7;
 
   @include large {
@@ -30,4 +30,8 @@ $blockquote-text-color: #819198 !default;
   @include small {
     font-size: 1rem;
   }
+}
+
+.project-tagline-middle {
+  opacity: 0.7;
 }
