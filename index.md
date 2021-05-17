@@ -18,7 +18,7 @@ It's a Deemed to be University under Minstry of Human Resource and Development (
 
 ## About CSE:
 
-At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd programmes
+At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd programmes.
 
 ### Topics (Tentative):
 
@@ -40,16 +40,16 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 * Mr. Nadim Akhtar, Consultant, Microsoft
 
 ### List of Speakers:
-* Dr. Amitava Nag
-* Dr. Apurbalal Senapati
-* Mr. Pranav Kr. Singh
-* Dr. Pankaj Pratap Singh
+* Dr. Amitava Nag, CIT Kokrajhar
+* Dr. Apurbalal Senapati, CIT Kokrajhar
+* Mr. Pranav Kr. Singh, CIT Kokrajhar
+* Dr. Pankaj Pratap Singh, CIT Kokrajhar
 
 
 ### Schedule (Tentative)
 
 | Sl. No       | Time              | Date  | Event | Details |
-|:-------------|:------------------|:------|:------|:--------|
+|:-------------|:------------------:|:------:|:------:|:--------:|
 | 1            | 9.30 AM - 10.00 AM | 22nd May, 2021  | Inauguration | 1. Welcome address by HoD CSE<br/>2. Speech of Director<br/>3. Speech of Registrar<br/>4. Speech of Dean R\&D
 | 2            | 10.00 AM - 11.00 AM | 22nd May, 2021 | Invited talk | Prof. Santosh Biswas, IIT Bhilai
 | 3            | 11.00 AM - 12.00 Noon | 22nd May, 2021 | Invited talk | Prof. Debasis Dey, WBUT
