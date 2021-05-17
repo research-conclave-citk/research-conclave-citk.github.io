@@ -37,3 +37,11 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 * Prof. Debasis De (WBUT)
 * Dr. Somnath Bey (IIT Indore)
 * Dr. Sayan Sarear (University of Tusukba, Japan)
+
+### Schedule (Tentative)
+
+| Sl. No       | Time              | Date  | Event | Details |
+|:-------------|:------------------|:------|:------|:--------|
+| 1           | 9.30 AM - 10.00 AM | 22nd May, 2021  | Inauguration | 1. Welcome address by HoD CSE<br/> 2. Speech of Director
+
+
