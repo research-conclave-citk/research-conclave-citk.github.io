@@ -39,13 +39,6 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 * [Dr. Sayan Sarear (University of Tusukba, Japan)](https://sayansarcar.github.io/)
 * Mr. Nadim Akhtar, Consultant, Microsoft
 
-### List of Speakers:
-* Dr. Amitava Nag, CIT Kokrajhar
-* Dr. Apurbalal Senapati, CIT Kokrajhar
-* Mr. Pranav Kr. Singh, CIT Kokrajhar
-* Dr. Pankaj Pratap Singh, CIT Kokrajhar
-
-
 
 **Patron:** Prof. Debkumar Chakrabarti (Officiating Director, CIT Kokrajhar)
 
