@@ -23,14 +23,14 @@
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <img src="assets/images/citlogo-withoutbg.png" alt="Institute Logo" height="180">
+      <img src="assets/images/citlogo-withoutbg.png" alt="Institute Logo" height="240">
       <h2 class="project-tagline">Organized by: Department of Computer Science and Engineering</h2>
       <p class="project-tagline-middle">Central Institute of Technology Kokrajhar </p>
       <h2 class="project-tagline">22nd - 23rd May 2021</h2>
       
       <a href="https://cit.ac.in" class="btn">Visit Institute site</a>
-      <a href="https://cit.ac.in/departments/cse/academic" class="btn">Visit Department page</a>
       <a href="assets/files/RC_2021.pdf" class="btn" download>Brochure</a>
+      <a href="https://cit.ac.in/departments/cse/academic" class="btn">Visit Department page</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
