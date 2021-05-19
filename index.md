@@ -45,9 +45,9 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 **Coordinator:** Dr. Ranjan Maity (Assistant Professor, CIT Kokrajhar)
 
 ### Google Meet Joining Info:
-> Day 1: https://meet.google.com/ahz-oovu-jcr
+> Day 1: [https://meet.google.com/ahz-oovu-jcr](https://meet.google.com/ahz-oovu-jcr)
 
-> Day 2: https://meet.google.com/reo-dvta-wpx
+> Day 2: [https://meet.google.com/reo-dvta-wpx](https://meet.google.com/reo-dvta-wpx)
 
 ```
 In case of any query contact Research Conclave 2021, coordinator Dr. Ranjan Maity at r.maity@cit.ac.in
