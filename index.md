@@ -20,7 +20,7 @@ It's a Deemed to be University under Minstry of Human Resource and Development (
 
 At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd programmes.
 
-### Topics (Tentative):
+### Topics:
 
 * Network Security
 * Machine Learning
@@ -29,7 +29,7 @@ At present the department is offering Diploma (3 years), B.Tech, M.Tech and Phd 
 * Human Computer Interaction
 * VLSI Testing
 
-### List of Invited Speakers (Tentative):
+### List of Invited Speakers:
 
 * [Prof. Sukumar Nandi (IIT Guwahati)](http://www.iitg.ac.in/engfac/sukumar/public_html/)
 * [Prof. Santosh Biswas (IIT Bhilai)](https://www.iitbhilai.ac.in/index.php?pid=santosh)
@@ -68,7 +68,7 @@ In case of any query contact Research Conclave 2021, coordinator Dr. Ranjan Mait
 * Dr. Pankaj Pratap Singh
 * Mrs. Puja Sarkar
 
-### Schedule (Tentative)
+### Schedule
 
 | Sl. No       | Time              | Date  | Event | Details |
 |:-------------|:------------------:|:------:|:------:|:--------:|
@@ -87,3 +87,16 @@ In case of any query contact Research Conclave 2021, coordinator Dr. Ranjan Mait
 | 13           | 2.00 PM - 3.00 PM | 23rd May, 2021 | Invited talk | Dr. Sayan Sarcar, University of Tusukba, Japan
 | 14           | 3.00 PM - 4.00 PM | 23rd May, 2021 | Invited talk | Prof. Sukumar Nandi
 | 15           | 4.00 PM - 5.00 PM | 23rd May, 2021 | Valedictory and Closing session |
+
+### Student's Presentation Schedule
+
+| Sl. No | Name | Course | Time | Topic | Email |
+|:----|:--------:|:------:|:------:|:--------:|:----:|
+| 1 | Rahul Brahma  | M.Tech 1st Year | 3.00 - 3.15 PM | **IoT security using Blockchain** | p20cse1009@cit.ac.in |
+| 2 | Koyel Ghosh | PhD | 3.15 - 3.30 PM | **Hate Speech Detection for Indian Language** | ghosh.koyel8@gmail.com |
+| 3 | Dipalli Basumatary | PhD | 3.30 - 3.45 PM | **AR based application for Education** | |
+| 4 | Dhanjit Sarma | M.Tech 2nd Year | 3.45 - 4.00 PM | **Heuristic based Usability Measurement** | |
+| 5 | Yasir Fahim | M.Tech 1st Year | 4.00 - 4.15 PM | **Deep Learning for Medical Image Processing** | p20cse1002@cit.ac.in |
+| 6 | Surjya Kanta Daimary | PhD | 4.15 - 4.30 PM | **A survey on cyber security threats and mitigation approaches of self-driving cars** | ph20cse1001@cit.ac.in |
+| 7 | Puja Sarkar | PhD | 4.30 - 4.45 PM | **Utilization of Secret Sharing Scheme for Secure Communication** | p.sarkar@cit.ac |
+| 8 | Milton Samadder | PhD | 4.45 - 5.00 PM | **Design & Development of Novel Distributed Data analytics platform for Industry 4.0** | milton.samadder@gmail.com|
